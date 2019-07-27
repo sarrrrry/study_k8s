@@ -30,3 +30,4 @@ hello nodeのnodeの意味はnode.jsのnode?
 それともkubernetes cluster中のnode?
 
 serviceたててアクセスするIPは誰が持っているIP?
+
